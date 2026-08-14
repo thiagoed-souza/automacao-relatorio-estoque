@@ -1,0 +1,26 @@
+[
+  { "id": "1", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "2", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "3", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "4", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "5", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "6", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "7", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "8", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+  { "id": "9", "marca": "HONDA", "ano": "2026", "serie": "A", "status": "DISPONIVEL", "detalhes": "" },
+
+  { "id": "10", "marca": "HONDA", "ano": "2025", "serie": "B", "status": "DISPONIVEL", "detalhes": "" },
+
+  { "id": "11", "marca": "HONDA", "ano": "2025", "serie": "", "status": "MANUTENCAO", "detalhes": "ROUBADA DEPENADA" },
+  { "id": "12", "marca": "HONDA", "ano": "2025", "serie": "", "status": "MANUTENCAO", "detalhes": "ROUBADA DEPENADA" },
+
+  { "id": "13", "marca": "HONDA", "ano": "2025", "serie": "", "status": "MANUTENCAO", "detalhes": "COLISÃO GRAVE EM SERVIÇO" },
+
+  { "id": "14", "marca": "HONDA", "ano": "2025", "serie": "", "status": "PREPARACAO", "detalhes": "PREPARAÇÃO SALÃO" },
+
+  { "id": "15", "marca": "YAMAHA", "ano": "2024", "serie": "", "status": "DETRAN", "detalhes": "IMPEDIMENTO/ DETRAN" },
+
+  { "id": "16", "marca": "HONDA", "ano": "2025", "serie": "", "status": "OBSERVACAO", "detalhes": "COLISÃO PRONTA AG/CLIENTE" },
+  { "id": "17", "marca": "HONDA", "ano": "2025", "serie": "", "status": "OBSERVACAO", "detalhes": "RESGATE INADIMPLENCIA" },
+  { "id": "18", "marca": "YAMAHA", "ano": "2024", "serie": "", "status": "OBSERVACAO", "detalhes": "RASTREADOR" }
+]
